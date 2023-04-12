@@ -1,5 +1,4 @@
-# Investigating-the-Rapid-Turnover-of-Infected-CD4-T-Cells-and-Viral-Dynamics-in-HIV-1-Infection-A-M
-
+# Using MATLAB: Investigating-the-Rapid-Turnover-of-Infected-CD4-T-Cells
 Objective of this project is to create a MATLAB program for mathematical model of HIV dynamics using the equations and concepts of Differential Equations studied in our course. We start our work by studying the Mathematical model of HIV dynamics given in the question, breaking down into simple processes, using the variables of population which is uninfected of CD4+ T cells, population which is infected of CD4+ T cells, and population at the time of virus. All of the variables are taken at time T. 
 
 
